@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2026-04-01-website-launch",
+    "date": "2026-04-01",
+    "title": "NADCA Website Launches",
+    "category": "Announcement",
+    "summary": "The North Airport Drive Civic Association is proud to launch our official website. Stay informed about rezoning proposals, meeting schedules, and how to protect our community's rural character.",
+    "body": "The North Airport Drive Civic Association has launched nadca-hs.org to serve as a central hub for community information. The site includes upcoming Board of Supervisors and Planning Commission meeting schedules, information about your Varina District Supervisor, the history and ecological significance of our area, and a sign-up form for new members. We encourage all residents along the North Airport Drive corridor to join the association and stay informed about development proposals that could affect our neighborhood.",
+    "pinned": true
+  },
+  {
+    "id": "2026-03-15-rez-2024-101268-denied",
+    "date": "2026-03-15",
+    "title": "130-Home Subdivision on N. Washington Street — DENIED",
+    "category": "Victory",
+    "summary": "The Board of Supervisors denied rezoning case REZ-2024-101268, a proposal for 130 homes on N. Washington Street, after strong community opposition.",
+    "body": "In a significant victory for the community, the Henrico County Board of Supervisors voted to deny rezoning case REZ-2024-101268, which proposed a 130-home subdivision on N. Washington Street. Residents cited concerns about wetlands destruction, traffic congestion on narrow rural roads, and incompatibility with the existing one-home-per-acre residential character. The denial reinforces the county's Comprehensive Plan policies that call for new development to be compatible with existing communities.",
+    "pinned": false
+  },
+  {
+    "id": "2026-02-20-rez-2024-101760-denied",
+    "date": "2026-02-20",
+    "title": "49-Home Subdivision Near I-295 Interchange — DENIED",
+    "category": "Victory",
+    "summary": "A second rezoning application for 49 homes along the same corridor was also denied by the Board of Supervisors.",
+    "body": "The Henrico County Board of Supervisors denied rezoning case REZ-2024-101760, a proposal by Eastwood Homes for a 49-lot subdivision on approximately 24 acres beside the I-295 interchange near Highland Springs. The proposal sought to rezone the land from Agricultural (A-1) to single-family residential (R-3C). Community members organized through the civic association to voice opposition, citing the same concerns about traffic, environmental impact, and incompatibility with the rural residential character of the area.",
+    "pinned": false
+  }
+]
