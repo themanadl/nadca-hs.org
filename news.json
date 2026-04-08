@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2026-04-01-website-launch",
+    "date": "2026-04-01",
+    "title": "NADCA Website Launches",
+    "category": "Announcement",
+    "summary": "The North Airport Drive Civic Association is proud to launch our official website. Stay informed about rezoning proposals, meeting schedules, and how to protect our community's rural character.",
+    "body": "The North Airport Drive Civic Association has launched nadca-hs.org to serve as a central hub for community information. The site includes upcoming Board of Supervisors and Planning Commission meeting schedules, information about your Varina District Supervisor, the history and ecological significance of our area, and a sign-up form for new members. We encourage all residents along the North Airport Drive corridor to join the association and stay informed about development proposals that could affect our neighborhood.",
+    "pinned": true
+  },
+  {
+    "id": "2026-03-15-rez-2024-101268-denied",
+    "date": "2026-03-15",
+    "title": "130-Home Subdivision on N. Washington Street — DENIED",
+    "category": "Victory",
+    "summary": "The Board of Supervisors denied rezoning case REZ-2024-101268, a proposal for 130 homes on N. Washington Street, after strong community opposition.",
+    "body": "In a significant victory for the community, the Henrico County Board of Supervisors voted to deny rezoning case REZ-2024-101268, which proposed a 130-home subdivision on N. Washington Street. Residents cited concerns about wetlands destruction, traffic congestion on narrow rural roads, and incompatibility with the existing one-home-per-acre residential character. The denial reinforces the county's Comprehensive Plan policies that call for new development to be compatible with existing communities.",
+    "pinned": false
+  },
+  {
+    "id": "2025-09-rez-2024-101760-denied",
+    "date": "2025-09-15",
+    "title": "Dorado Capital's 49-Home Proposal on N. Airport Drive — DENIED",
+    "category": "Victory",
+    "summary": "The Board of Supervisors denied Dorado Capital's rezoning case REZ-2024-101760 for 49 homes on 36 acres of North Airport Drive, citing incompatibility with the area's rural residential character.",
+    "body": "The Henrico County Board of Supervisors denied rezoning case REZ-2024-101760, a proposal by Dorado Capital to build 49 homes on approximately 36 acres along North Airport Drive. The application sought to rezone the land from Agricultural (A-1) to single-family residential. Community members organized through the North Airport Drive Civic Association to voice opposition, citing traffic safety on the narrow two-lane road, environmental impact on the Chickahominy River watershed, incompatibility with the existing one-home-per-acre rural residential character, and the county's own Comprehensive Plan policies for rural areas. The denial was a significant victory for the community and demonstrated the power of organized civic engagement.",
+    "pinned": false
+  }
+]
